@@ -1,6 +1,6 @@
 # mpvue-cli
 
-> 网易游戏盒子小程序
+> mpvue 脚手架
 
 ## Build Setup
 
