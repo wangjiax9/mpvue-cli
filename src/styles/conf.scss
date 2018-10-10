@@ -1,0 +1,28 @@
+$baseFontSize:1 !default;
+@function toRem($px){
+  @return ($px / $baseFontSize ) * 1rpx;
+}
+
+$font-super: toRem(40);
+$font-big:toRem(36);
+$font-middle:toRem(32);
+$font-default:toRem(28);
+$font-small:toRem(24);
+$font-mini:toRem(20);
+
+$body-bg: #fff;
+$content-bg: #fff;
+$border-bg: #ebebeb;
+$margin-bg: #f4f4f4;
+$common-bg: #f4f4f4;
+
+$default-text: #1b1b1b;
+$common-text: #b2b2b2;
+$stress-text:#333;
+$mute-text:#fc496b;
+$primay-text:#ff625a;
+$info-text:#666;
+$gray-text:#999;
+$cont-bg:#f9f9f9;
+
+$label-text:#fff;

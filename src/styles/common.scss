@@ -1,0 +1,20 @@
+.container{
+  width:100%;
+  font-size:30px;
+}
+.text-gray{
+  color: #ccc;
+}
+.pull-left{
+  float: left;
+}
+
+.pull-right{
+  float: right;
+}
+
+::-webkit-scrollbar{
+  width: 0;
+  height: 0;
+  color: transparent;
+}
